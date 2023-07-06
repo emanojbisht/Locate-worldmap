@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  gap: 1rem;
+}
+.logo {
+  height: 5.2rem;
+}
+
+.container span {
+  color: white;
+}
